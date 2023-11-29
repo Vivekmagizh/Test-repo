@@ -1,2 +1,0 @@
-This is an test file for the github test
-And this file has been update now to check the pull command 
